@@ -1,39 +1,44 @@
-## Hi there 👋 I'm Juyeon Lee
+# Hi there 👋 I'm Juyeon Lee
 
-🎓 Computer Science and Engineering student at Sungkyunkwan University
-
-🔍 **Natural Language Processing**, **Machine Learning**, and **Full-Stack Development**
-
-🚀 Check out my portfolio to learn more about my work:  
-👉 [https://juyeon6273.github.io/portfolio/](https://juyeon6273.github.io/portfolio/)
+**ML Engineer & Researcher** specialized in optimizing high-throughput NLP pipelines and GenAI search precision.
+I focus on bridging the gap between academic Transformer research and production-ready ML systems.
 
 ---
 
-### 🛠️ Technical Skills
+### 🔬 Core Expertise & Impact
 
-**Languages**: C/C++, Python, Java, SQL, HTML/CSS  
-**Frameworks**: TensorFlow, PyTorch, Scikit-learn, Flask, React, Node.js, FastAPI  
-**Tools**: Git, Docker, Visual Studio, PyCharm, Eclipse, REST API, Pandas, NumPy, Figma, Linux
+**[Production ML] NAVER | Prompt Engineering Intern**
+* **Search Quality Optimization**: Enhanced **RAG-based search precision** by developing a multi-stage retrieval architecture integrating heuristic logic and LLM reasoning.
+* **Heuristic Reranking**: Developed iterative prompts and heuristic logic to enhance model reasoning and RAG performance.
 
----
-
-### 🌱 Experience Highlights
-
-- **Research Co-op @ Mechasolution** *(Apr 2023 – Feb 2024)*  
-  - Co-authored an IEEE paper on a **transformer-based demand forecasting model**  
-  - *Topic Modeling-Based Framework for Extracting Marketing Information From E-Commerce Reviews*  
-    [Link to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10335184)
+**[Research] IEEE Access Publication | Mechasolution**
+* **530k+ Review Analysis**: Architected an NLP pipeline using **Topic Modeling** to extract marketing insights from over half a million e-commerce reviews.
+* **Transformer Forecasting**: Co-authored [research](https://doi.org/10.1109/ACCESS.2023.3337808) on Transformer-based demand forecasting, focusing on custom loss functions for high-precision results.
 
 ---
 
-### 🏆 Awards & Projects
+### 💻 Technical Proficiency
 
-- 🥇 **Excellence Prize** – Co-Deep Learning Project  
-- 📊 **Satellite Image Classification** (Accuracy improved to 97.16%)  
-- 🧠 **KoBERT-based Clinical Text Classifier**  
-- 💬 **Chatbot for Financial Literacy** with visual explanations
+* **AI/ML**: GenAI, LLMs (Gemma, Llama, Gemini, Qwen), RAG, KoBERT, Transfer Learning, Model Evaluation
+* **Frameworks**: PyTorch, TensorFlow, Scikit-learn, FastAPI, Flask
+* **Engineering**: **Python (Expert)**, Docker, SQL, REST API, Linux, ML Infrastructure
+* **Education**: B.S. in CS @ **SKKU** (Korea) & **North Park University** (Chicago)
 
 ---
 
-Feel free to connect or explore more of my work! 😊
+### 📊 Project Highlights
 
+* 🛰️ **Satellite ML**: Improved classification accuracy from **71% → 97.16%** using MobileNetV2 and LR scheduling.
+* 🏥 **Clinical NLP**: Reached **96.5% accuracy** on real-time clinical text classification (Excellence Prize).
+* ⚙️ **3D Design**: Applied user-centered principles to mechanical prototypes at **NTU, Singapore**.
+
+---
+
+### 🔗 Connect
+- 📂 [**Portfolio**](https://aylajlee.github.io/portfolio/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/aylajlee)
+- 📧 [**Email**](mailto:aylalee.log@gmail.com)
+- 🗽 **Open to Relocate to New York City**
+
+---
+*“Balancing academic rigor with the engineering needs of high-volume data systems.”*
