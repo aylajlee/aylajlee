@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Juyeon Lee
 
-**ML Engineer & Researcher** specialized in optimizing high-throughput NLP pipelines and GenAI search precision.
-I focus on bridging the gap between academic Transformer research and production-ready ML systems.
+**Building "Fact-First" GenAI Systems.**
+I am an ML Engineer & Researcher specializing in **mitigating LLM hallucinations** through **Neural Reranking** and **RAG optimization**. Currently researching scalable model-to-data frameworks in Chicago.
 
 ---
 
@@ -19,10 +19,12 @@ I focus on bridging the gap between academic Transformer research and production
 
 ### 💻 Technical Proficiency
 
-* **AI/ML**: GenAI, LLMs (Gemma, Llama, Gemini, Qwen), RAG, KoBERT, Transfer Learning, Model Evaluation
-* **Frameworks**: PyTorch, TensorFlow, Scikit-learn, FastAPI, Flask
-* **Engineering**: **Python (Expert)**, Docker, SQL, REST API, Linux, ML Infrastructure
-* **Education**: B.S. in CS @ **SKKU** (Korea) & **North Park University** (Chicago)
+* **Core Stack**: Python, RAG (Retrieval-Augmented Generation), LLM Optimization (Post-Hoc Editing), PyTorch
+* **AI/ML**: GenAI (Gemma, Llama, Gemini, Qwen, ChatGPT), Search & Information Retrieval, Neural Reranking, Model Evaluation, KoBERT
+* **Engineering**: C++, Java, Docker, PostgreSQL (pgAdmin 4), SQL, REST API, Linux (Ubuntu), VS Code
+* **Education**:
+*   Sungkyunkwan University (SKKU): B.S. in Computer Science and Engineering (Korea)
+*   North Park University: Exchange Student in CS (Chicago, USA | Jan 2026 – Present)
 
 ---
 
@@ -37,7 +39,7 @@ I focus on bridging the gap between academic Transformer research and production
 ### 🔗 Connect
 - 📂 [**Portfolio**](https://aylajlee.github.io/portfolio/)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/aylajlee)
-- 📧 [**Email**](mailto:aylalee.log@gmail.com)
+- 📧 [**Email**](mailto:wn7347@g.skku.edu)
 - 🗽 **Open to Relocate to New York City**
 
 ---
