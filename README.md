@@ -23,8 +23,8 @@ I am an ML Engineer & Researcher specializing in **mitigating LLM hallucinations
 * **AI/ML**: GenAI (Gemma, Llama, Gemini, Qwen, ChatGPT), Search & Information Retrieval, Neural Reranking, Model Evaluation, KoBERT
 * **Engineering**: C++, Java, Docker, PostgreSQL (pgAdmin 4), SQL, REST API, Linux (Ubuntu), VS Code
 * **Education**:
-*   Sungkyunkwan University (SKKU): B.S. in Computer Science and Engineering (Korea)
-*   North Park University: Exchange Student in CS (Chicago, USA | Jan 2026 – Present)
+  * Sungkyunkwan University (SKKU): B.S. in Computer Science and Engineering (Korea)
+  * North Park University: Exchange Student in CS (Chicago, USA | Jan 2026 – Present)
 
 ---
 
