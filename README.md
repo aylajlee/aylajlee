@@ -37,7 +37,6 @@ I am an ML Engineer & Researcher specializing in **mitigating LLM hallucinations
 ---
 
 ### 🔗 Connect
-- 📂 [**Portfolio**](https://aylajlee.github.io/portfolio/)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/aylajlee)
 - 📧 [**Email**](mailto:wn7347@g.skku.edu)
 - 🗽 **Open to Relocate to New York City**
